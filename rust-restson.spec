@@ -6,8 +6,8 @@
 %global crate restson
 
 Name:           rust-%{crate}
-Version:        0.5.4
-Release:        3%{?dist}
+Version:        1.5.0
+Release:        1%{?dist}
 Summary:        Easy-to-use REST client with automatic serialization and deserialization
 
 # Upstream license specification: MIT
